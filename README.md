@@ -32,6 +32,12 @@ the nerds are able to understand.
 Awesome! Head on over to the [the-super-tiny-compiler.js](the-super-tiny-compiler.js)
 file.
 
+### Remember!! translation process happens in several key stages:
+
+- Lexical analysis (scanning): Breaks down the Super Tiny code into meaningful chunks like keywords (e.g., "add", "subtract"), numbers, and operators (+, -).
+- Syntax analysis (parsing): Checks if the chunks of code are arranged in a grammatically correct way according to the rules of the Super Tiny language.
+- Code generation: Translates the parsed code into machine code or some other intermediate representation that the computer can execute.
+
 ### I'm back, that didn't make sense
 
 Ouch, I'm really sorry. Let me know how it can be improved.
