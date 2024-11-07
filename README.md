@@ -3,7 +3,7 @@
 ***Welcome to The Super Tiny Compiler!***
 
 This is an ultra-simplified example of all the major pieces of a modern compiler
-written in easy to read JavaScript.
+written in easy to read JavaScript. This compiler made it easy to understand the low level "stuff" in a simple manner.
 
 Reading through the guided code will help you learn about how *most* compilers
 work from end to end.
